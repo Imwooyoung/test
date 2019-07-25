@@ -1,0 +1,4 @@
+student num : 3
+name: imwooyoung math: 100 science: 90 social: 80 average: 11.00 
+name: iuy science: 90 math: 100 social: 30 average: 11.00 
+name: uyoungim social: 92 science: 68 math: 45 average: 11.00 
